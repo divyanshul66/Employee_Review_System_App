@@ -1,0 +1,78 @@
+
+/* The styling for sign-in / sign-up / forgetPassword is same */
+/* It is the main container */
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 13vh;
+    margin-left: 34vw;
+    height: 65vh;
+    width: 32vw;
+}
+/* The main container is divided into two part */
+/* Company Logo,  */
+.companyLogo img{
+   height:100px;
+   width:100px;
+   
+}
+.formInput{
+    background-color:RGB(20 27 65);
+    height: 100%;
+    width: 100%;
+    /* margin-left: 10%; */
+}
+/* Form heading */
+.formInput h1{
+    margin-left: 25%;
+    color:white;
+    font-size: 50px;
+}
+
+.formInput form{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+form input{
+    width: 90%;
+    height: 45px;
+    margin: 10px 0px;
+    /* border-color: pink; */
+    border-radius: 10px;
+    padding: 20px;
+}
+/* Styling for the button, and submit button */
+.buttons{
+    display: flex;
+    /* flex-direction: row; */
+    margin-top: 15px;
+}
+.submitButtons{
+    width: 40%;
+    margin-left: 10%;
+    flex:row;
+}
+
+.submitButtons button{
+    height:40px;
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 30px;
+    color: white;
+    
+    font-size: 22px;
+    background-color: rgb(158,63,211);
+}
+.forgetPassword{
+    font-size: 18px;
+    margin-top: 10px;
+    color:darkgray;
+}
+
+.extraStuff{
+    margin-top: 5px;
+    color:white;
+    font-size: 22px;
+}

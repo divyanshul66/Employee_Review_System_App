@@ -1,0 +1,98 @@
+/* Heading of the admin Page */
+.heading{
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    align-content: center; */
+    color:white;
+    font-size:1.9rem;
+    text-decoration:underline 2px white;
+    font-weight:bold;
+   
+}
+.text-center{
+    font-size:1.9rem;
+    margin-top:5px;
+    text-decoration:underline 2px white;
+    /* font-weight:bold; */
+    color:whitesmoke
+}
+/* Assign Heading */
+.assingHeadine{
+    display: flex;
+    justify-content: center;
+}
+/* Container for assigning reviwer and reviewing */
+.reviewContainer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid whitesmoke;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 30%;
+    align-items: center;
+    height: fit-content;
+    border-radius:10px;
+}
+/* for the reviewer, containere */
+.reviewer{
+    width: 90%;
+}
+.reviewee{
+    margin-top: 20px;
+}
+.set-re {
+    color: whitesmoke;
+} 
+/* Submit buttons div*/
+.submitButtons{
+    margin-left: 36%;
+    width: 30%;
+    margin-top:10px;
+    padding:10px;
+}
+/* Submit buttons  */
+.submitButtons button{
+    background-color:lightpink;
+    margin-left:-80px;
+    width: 20vw;
+    height: 35px;
+    border: 1px solid RGB(158 63 211);
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+.submitButtons button:hover{
+    background-color:RGB(158 63 211) ;
+}
+/* This button is used in assigning admin,  */
+.submitButtons2{
+    width: 10vw;
+}
+
+.btn{
+    background-color: yellow;
+}
+.btn:hover{
+    background-color: red;
+}
+#addemp{
+    background-color: lightyellow;
+}
+.container table thead tr th{
+ color: white;
+ font-size:25px;
+}
+.container table tbody tr th{
+    color: white;
+    font-size:25px;
+}
+.colo{
+    color: white;
+    font-size:25px;
+}
+.table-hover{
+ color:RGB(57 68 130);
+ 
+}
