@@ -8,6 +8,6 @@ The review given to the employee, is always going to be store in the database.
 You can see the website live at: but if you want to run the application then download zip file open it and follow step 9. 
 Write nodemon index.js in terminal then follow the step 10. 
 Open the application in your web browser by visiting the following URL: $ http://localhost:8000
-Link for video is:  https://drive.google.com/file/d/1JxrNyIRyCa5OUQ6IxG5xvN31QxG6BLky/view?usp=sharing
+Link for video is: https://drive.google.com/file/d/1JxrNyIRyCa5OUQ6IxG5xvN31QxG6BLky/view?usp=sharing
 # Pic Of The Project
 ![Screenshot (245)](https://github.com/divyanshul66/Employee_Review_System_App/assets/119027160/9ab5c462-0b89-4bcc-be04-b2b16d9155f5)
